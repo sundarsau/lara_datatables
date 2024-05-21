@@ -8,7 +8,7 @@
 
 3. Create a Database in MySQL
 
-4. Update .env file, change DB_CONNECTION to mysql. Uncomment the lines with DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME and DB_PASSWORD. Update DB_DATABASE with the database name you just created.
+4. Copy .env.example to .env. Update .env file, change DB_CONNECTION to mysql. Uncomment the lines with DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME and DB_PASSWORD. Update DB_DATABASE with the database name you just created.
 
 5. Run composer install from project root
 
