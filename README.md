@@ -8,15 +8,14 @@
 
 3. Create a Database in MySQL
 
-4. Copy .env.example to .env and update database name, username and password. For example, I used the database lara_form and updated database details as below:
-
-   DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=lara_lang DB_USERNAME=root DB_PASSWORD=
+4. Update .env file, change DB_CONNECTION to mysql. Uncomment the lines with DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME and DB_PASSWORD. Update DB_DATABASE with the database name you just created.
 
 5. Run composer install from project root
 
 6. Run php artisan key:generate
 
 7. Run php artisan migrate to create Laravel default tables
+   
 8. Run php artisan db:seed to create dummy data in users table
 
 9. Run php artisan serve
