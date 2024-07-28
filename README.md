@@ -1,5 +1,5 @@
 # Use jQuery dataTables in Laravel project for pagination
- Laravel 11 Project with jQuery dataTables for pagination. This project is to show how to use pagination in a Laravel 11 project. For more Laravel topics for web development please visit the website https://codehow2.com.
+ Laravel 11 Project with jQuery dataTables for pagination. This project is to show how to use pagination in a Laravel 11 using jQuery dataTables. For more Laravel topics for web development please visit the website https://codehow2.com.
 
 # How To Use
 1. Download the repository from https://github.com/sundarsau/lara_datatables
